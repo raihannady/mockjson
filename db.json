@@ -1,34 +1,55 @@
 {
     "detail": [
         {
-            "jam": "03:15",
-            "tanggal":"18 Februari 2021",
-            "nama":"Ayam Tangkap",
-            "pengeluaraan":77249
+            "name": "Crinoid",
+            "type":"Landing Page",
+            "desc": "Crinoid is a web-based application for integrating online shopping from various marketplaces in Indonesia",
+            "tech_stack":[
+                "HTML",
+                "CSS"
+            ],
+            "url_project": "https://raihannady.github.io/AinanPetshop/"
         },
         {
-            "jam": "03:15",
-            "tanggal":"18 Februari 2021",
-            "nama":"Mie Rebus",
-            "pengeluaraan":32154
+            "name": "Ainan Petshop",
+            "type":"Landing Page",
+            "desc": "Ainan Petshop is an information page related to the services available at the pet shop.",
+            "tech_stack":[
+                "HTML",
+                "CSS"
+            ],
+            "url_project": "https://raihannady.github.io/AinanPetshop/"
         },
         {
-            "jam": "00:20",
-            "tanggal":"17 Februari 2021",
-            "nama":"Soto Kuning",
-            "pengeluaraan":34992
+            "name": "Diari Jajan",
+            "type":"Project",
+            "desc": "Diari Jajan is a website application for recording financial expenses and accumulating them.",
+            "tech_stack":[
+                "Vue Js",
+                "Tailwind CSS"
+            ],
+            "url_project": "https://raihannady.github.io/AinanPetshop/"
         },
         {
-            "jam": "05:59",
-            "tanggal":"17 Februari 2021",
-            "nama":"Ayam Geprek",
-            "pengeluaraan":37674
+            "name": "Sea Cinema",
+            "type":"Project",
+            "desc": "Sea Cinema is a website that contains information about the films available.",
+            "tech_stack":[
+                "React Js",
+                "Tailwind CSS"
+            ],
+            "url_project": "https://raihannady.github.io/AinanPetshop/"
         },
         {
-            "jam": "05:45",
-            "tanggal":"16 Februari 2021",
-            "nama":"Otak-otak",
-            "pengeluaraan":11971
-        }
+            "name": "Calculator",
+            "type":"Project",
+            "desc": "Calculator website application using JavaScript.",
+            "tech_stack":[
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "url_project": "https://raihannady.github.io/AinanPetshop/"
+        },
     ]
 }
