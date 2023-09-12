@@ -1,6 +1,7 @@
 {
     "detail": [
         {
+            "id": 0,
             "name": "Crinoid",
             "type":"Landing Page",
             "desc": "Crinoid is a web-based application for integrating online shopping from various marketplaces in Indonesia",
@@ -12,6 +13,7 @@
             "url_image": "https://i.imgur.com/KtPvjnE.png"
         },
         {
+            "id": 1,
             "name": "Ainan Petshop",
             "type":"Landing Page",
             "desc": "Ainan Petshop is an information page related to the services available at the pet shop.",
@@ -23,6 +25,7 @@
             "url_image": "https://i.imgur.com/FY1Uw7K.png"
         },
         {
+            "id": 2,
             "name": "Diari Jajan",
             "type":"Project",
             "desc": "Diari Jajan is a website application for recording financial expenses and accumulating them.",
@@ -34,6 +37,7 @@
             "url_image": "https://i.imgur.com/BKxjmI5.png"
         },
         {
+            "id": 3,
             "name": "Sea Cinema",
             "type":"Project",
             "desc": "Sea Cinema is a website that contains information about the films available.",
@@ -45,6 +49,7 @@
             "url_image": "https://i.imgur.com/PlscWL5.png"
         },
         {
+            "id": 4,
             "name": "Calculator",
             "type":"Project",
             "desc": "Calculator website application using JavaScript.",
