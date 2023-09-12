@@ -8,7 +8,8 @@
                 "HTML",
                 "CSS"
             ],
-            "url_project": "https://raihannady.github.io/AinanPetshop/"
+            "url_project": "https://raihannady.github.io/AinanPetshop/",
+            "url_image": "https://i.imgur.com/KtPvjnE.png"
         },
         {
             "name": "Ainan Petshop",
@@ -18,7 +19,8 @@
                 "HTML",
                 "CSS"
             ],
-            "url_project": "https://raihannady.github.io/AinanPetshop/"
+            "url_project": "https://raihannady.github.io/AinanPetshop/",
+            "url_image": "https://i.imgur.com/FY1Uw7K.png"
         },
         {
             "name": "Diari Jajan",
@@ -28,7 +30,8 @@
                 "Vue Js",
                 "Tailwind CSS"
             ],
-            "url_project": "https://raihannady.github.io/AinanPetshop/"
+            "url_project": "https://raihannady.github.io/AinanPetshop/",
+            "url_image": "https://i.imgur.com/BKxjmI5.png"
         },
         {
             "name": "Sea Cinema",
@@ -38,7 +41,8 @@
                 "React Js",
                 "Tailwind CSS"
             ],
-            "url_project": "https://raihannady.github.io/AinanPetshop/"
+            "url_project": "https://raihannady.github.io/AinanPetshop/",
+            "url_image": "https://i.imgur.com/PlscWL5.png"
         },
         {
             "name": "Calculator",
@@ -49,7 +53,8 @@
                 "CSS",
                 "Javascript"
             ],
-            "url_project": "https://raihannady.github.io/AinanPetshop/"
+            "url_project": "https://raihannady.github.io/AinanPetshop/",
+            "url_image": "https://i.imgur.com/n0MJlB1.png"
         }
     ]
 }
