@@ -65,7 +65,7 @@
             ],
             "url_project": "https://github.com/raihannady/KalkulatorSederhana",
             "url_image": "https://i.imgur.com/ZPDD5nv.png"
-        }
+        },
         {
             "id": 5,
             "name": "Unair Satu Data",
@@ -77,9 +77,9 @@
             ],
             "url_project": "https://github.com/raihannady/KalkulatorSederhana",
             "url_image": "https://i.imgur.com/eVACxOQ.jpg"
-        }
+        },
         {
-            "id": 5,
+            "id": 6,
             "name": "Relawan App",
             "type":2,
             "platform":"Mobile App",
@@ -89,9 +89,9 @@
             ],
             "url_project": "https://github.com/raihannady/KalkulatorSederhana",
             "url_image": "https://i.imgur.com/R4kjfqL.png"
-        }
+        },
         {
-            "id": 6,
+            "id": 7,
             "name": "Gobis Suroboyo Bus",
             "type":2,
             "platform":"Mobile App",
