@@ -3,7 +3,8 @@
         {
             "id": 0,
             "name": "Crinoid",
-            "type":"Landing Page",
+            "type":1,
+            "platform":"Web App",
             "desc": "Crinoid is a web-based application for integrating online shopping from various marketplaces in Indonesia",
             "tech_stack":[
                 "HTML",
@@ -15,7 +16,8 @@
         {
             "id": 1,
             "name": "Ainan Petshop",
-            "type":"Landing Page",
+            "type":1,
+            "platform":"Web App",
             "desc": "Ainan Petshop is an information page related to the services available at the pet shop.",
             "tech_stack":[
                 "HTML",
@@ -27,7 +29,8 @@
         {
             "id": 2,
             "name": "Diari Jajan",
-            "type":"Project",
+            "type":1,
+            "platform":"Web App",
             "desc": "Diari Jajan is a website application for recording financial expenses and accumulating them.",
             "tech_stack":[
                 "Vue Js",
@@ -39,7 +42,8 @@
         {
             "id": 3,
             "name": "Sea Cinema",
-            "type":"Project",
+            "type":1,
+            "platform":"Web App",
             "desc": "Sea Cinema is a website that contains information about the films available.",
             "tech_stack":[
                 "React Js",
@@ -51,7 +55,8 @@
         {
             "id": 4,
             "name": "Calculator",
-            "type":"Project",
+            "type":1,
+            "platform":"Web App",
             "desc": "Calculator website application using JavaScript.",
             "tech_stack":[
                 "HTML",
@@ -60,6 +65,42 @@
             ],
             "url_project": "https://github.com/raihannady/KalkulatorSederhana",
             "url_image": "https://i.imgur.com/ZPDD5nv.png"
+        }
+        {
+            "id": 5,
+            "name": "Unair Satu Data",
+            "type":2,
+            "platform":"Mobile App",
+            "desc": "The Satu Data Center (SDC) at the Universitas Airlangga is responsible for compiling, managing, presenting and analysing data to support the university management in strategic planning as well as to assist individual unit endeavors towards organizational excellence.",
+            "tech_stack":[
+                "Figma"
+            ],
+            "url_project": "https://github.com/raihannady/KalkulatorSederhana",
+            "url_image": "https://i.imgur.com/eVACxOQ.jpg"
+        }
+        {
+            "id": 5,
+            "name": "Relawan App",
+            "type":2,
+            "platform":"Mobile App",
+            "desc": "Relawan App is an application for volunteers that supports one of the legislative candidates and contains information, profiles, and an e-wallet.",
+            "tech_stack":[
+                "Figma"
+            ],
+            "url_project": "https://github.com/raihannady/KalkulatorSederhana",
+            "url_image": "https://i.imgur.com/R4kjfqL.png"
+        }
+        {
+            "id": 6,
+            "name": "Gobis Suroboyo Bus",
+            "type":2,
+            "platform":"Mobile App",
+            "desc": "Gobis is an application to monitor the movement and knowing the distance between bus stops Suroboyo and display the data in real time. This app can be used in android and ios",
+            "tech_stack":[
+                "Figma"
+            ],
+            "url_project": "https://github.com/raihannady/KalkulatorSederhana",
+            "url_image": "https://i.imgur.com/sYkTKTW.png"
         }
     ]
 }
